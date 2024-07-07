@@ -1,13 +1,14 @@
 dash
 dash-core-components
 dash-html-components
-dash-renderer
-dash-table
-Flask
-plotly
+dash-bootstrap-components
 pandas
+numpy
 geopandas
-requests
 folium
+plotly
+requests
 gunicorn
+Flask
+
 
